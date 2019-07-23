@@ -2,7 +2,7 @@
 
 frp使用实例：  
 
-##公网服务器端：  
+## 公网服务器端：  
 1.下载  
 wget https://github.com/fatedier/frp/releases/download/v0.27.1/frp_0.27.1_linux_amd64.tar.gz  
 tar -xvf frp_0.27.1_linux_amd64.tar.gz  
@@ -24,7 +24,7 @@ dashboard_pwd = cls108!@#
 ufw allow 7007   
 ufw allow 7500  
   
-##内网电脑端：   
+## 内网电脑端：   
 1.下载  
 https://github.com/fatedier/frp/releases/download/v0.27.1/frp_0.27.1_windows_amd64.zip  
 解压  
