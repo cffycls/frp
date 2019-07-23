@@ -1,6 +1,7 @@
-#[远程桌面]  
+# [远程桌面]  
 
-frp使用实例：
+frp使用实例：  
+
 ##公网服务器端：  
 1.下载  
 wget https://github.com/fatedier/frp/releases/download/v0.27.1/frp_0.27.1_linux_amd64.tar.gz  
